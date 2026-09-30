@@ -1,8 +1,5 @@
 # 1. LeetCode #1021-T: Multi-Tier Loan Payment Allocation (Waterfall Engine)
 
-> **เป้าหมายผู้สมัคร:** Chotichai J. (.NET Programmer / Full-Stack & SA/BA)
-> **หมวดหมู่ / แท็ก:** 🗓️ นัดสัมภาษณ์: อังคาร 25 ส.ค. 18:30–19:30 น.
-
 ---
 
 ### 📜 คำอธิบายโจทย์ (Problem Statement)

@@ -392,7 +392,6 @@ public class Program
         Console.WriteLine("╔═══════════════════════════════════════════════════════════════════════════════════════╗");
         Console.WriteLine("║            MULTI-TIER LOAN PAYMENT ALLOCATION (WATERFALL ENGINE) TEST RUNNER         ║");
         Console.WriteLine("║                      LeetCode #1021-T • Banking Core Loan System                      ║");
-        Console.WriteLine("║                 Candidate: Chotichai J. (.NET Programmer / SA / BA)                   ║");
         Console.WriteLine("╚═══════════════════════════════════════════════════════════════════════════════════════╝");
         Console.ResetColor();
     }
